@@ -1,5 +1,54 @@
 [ {
   "buildOrder" : 1,
+  "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 499
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 343
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/6/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 377
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/5/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 274
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/4/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 346
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 439
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/2/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 439
+  }
+}, {
+  "buildOrder" : 1,
   "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/1/",
   "reportName" : "Allure Report with history",
   "data" : {

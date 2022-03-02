@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "fafe851a3c4856a3",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/fafe851a3c4856a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170368,
+        "stop" : 1646233170369,
+        "duration" : 1
+      }
+    }, {
       "uid" : "4e531b4508f6d9d7",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/4e531b4508f6d9d7",
       "status" : "passed",
@@ -33,11 +42,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "58a1810b130064e8",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/58a1810b130064e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170086,
+        "stop" : 1646233170120,
+        "duration" : 34
+      }
+    }, {
       "uid" : "5b3c43db37a83852",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/5b3c43db37a83852",
       "status" : "passed",
@@ -62,11 +80,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "c5dd07b84ba3f2f",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/c5dd07b84ba3f2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170259,
+        "stop" : 1646233170262,
+        "duration" : 3
+      }
+    }, {
       "uid" : "63a3348ebef4cbb3",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/63a3348ebef4cbb3",
       "status" : "passed",
@@ -136,11 +163,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "650bb39fc6d75c65",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/650bb39fc6d75c65",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170150,
+        "stop" : 1646233170156,
+        "duration" : 6
+      }
+    }, {
       "uid" : "5df9e02c8b26119f",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/5df9e02c8b26119f",
       "status" : "passed",
@@ -165,11 +201,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "cff655a70ef3f36d",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/cff655a70ef3f36d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170052,
+        "stop" : 1646233170058,
+        "duration" : 6
+      }
+    }, {
       "uid" : "d7ef8256ea051708",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/d7ef8256ea051708",
       "status" : "passed",
@@ -250,11 +295,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "a97079b704f2f62e",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/a97079b704f2f62e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170363,
+        "stop" : 1646233170364,
+        "duration" : 1
+      }
+    }, {
       "uid" : "df5d8695b14eff5e",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/df5d8695b14eff5e",
       "status" : "passed",
@@ -279,11 +333,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "ea88c4bd7b5e4b74",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/ea88c4bd7b5e4b74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170180,
+        "stop" : 1646233170192,
+        "duration" : 12
+      }
+    }, {
       "uid" : "dceef7e6754e1a37",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/dceef7e6754e1a37",
       "status" : "passed",
@@ -308,11 +371,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "121cee2ca399fe8a",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/121cee2ca399fe8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170346,
+        "stop" : 1646233170347,
+        "duration" : 1
+      }
+    }, {
       "uid" : "ea034ff228a3f4de",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/ea034ff228a3f4de",
       "status" : "passed",
@@ -382,11 +454,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "d48b66623adc2154",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/d48b66623adc2154",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170213,
+        "stop" : 1646233170215,
+        "duration" : 2
+      }
+    }, {
       "uid" : "db9679f5d4c0d1bd",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/db9679f5d4c0d1bd",
       "status" : "passed",
@@ -411,11 +492,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "601c8b2e41f8d78e",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/601c8b2e41f8d78e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170354,
+        "stop" : 1646233170355,
+        "duration" : 1
+      }
+    }, {
       "uid" : "1f09c6225f7bf870",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/1f09c6225f7bf870",
       "status" : "passed",
@@ -440,11 +530,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "d9874c3196f5ecf3",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/d9874c3196f5ecf3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170371,
+        "stop" : 1646233170372,
+        "duration" : 1
+      }
+    }, {
       "uid" : "bba1ee3e48db140a",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/bba1ee3e48db140a",
       "status" : "passed",
@@ -469,11 +568,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "d67f8b821e889ac8",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/d67f8b821e889ac8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170141,
+        "stop" : 1646233170144,
+        "duration" : 3
+      }
+    }, {
       "uid" : "4f020af2351c7750",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/4f020af2351c7750",
       "status" : "passed",
@@ -554,11 +662,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "2170dbb947c40861",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/2170dbb947c40861",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170243,
+        "stop" : 1646233170247,
+        "duration" : 4
+      }
+    }, {
       "uid" : "846594f65f6ee8",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/846594f65f6ee8",
       "status" : "passed",
@@ -628,11 +745,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "ae34b07bf365fee9",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/ae34b07bf365fee9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170044,
+        "stop" : 1646233170045,
+        "duration" : 1
+      }
+    }, {
       "uid" : "a6fdbb841d115663",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/a6fdbb841d115663",
       "status" : "passed",
@@ -657,11 +783,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "1c56dc4dd2d82d72",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/1c56dc4dd2d82d72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170208,
+        "stop" : 1646233170209,
+        "duration" : 1
+      }
+    }, {
       "uid" : "3f3fe3092f7075c",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/3f3fe3092f7075c",
       "status" : "passed",
@@ -686,11 +821,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "cf23fb185d9b9673",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/cf23fb185d9b9673",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170357,
+        "stop" : 1646233170358,
+        "duration" : 1
+      }
+    }, {
       "uid" : "b9c41b9990dc82e7",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/b9c41b9990dc82e7",
       "status" : "passed",
@@ -715,11 +859,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "41e121518d2b789c",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/41e121518d2b789c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170202,
+        "stop" : 1646233170203,
+        "duration" : 1
+      }
+    }, {
       "uid" : "4219c1a3fc8f3b5",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/4219c1a3fc8f3b5",
       "status" : "passed",
@@ -744,11 +897,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "8ad635633cc64ddc",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/8ad635633cc64ddc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170301,
+        "stop" : 1646233170336,
+        "duration" : 35
+      }
+    }, {
       "uid" : "887f0bcbae043a77",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/887f0bcbae043a77",
       "status" : "passed",
@@ -818,11 +980,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "59c98d9288926eac",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/59c98d9288926eac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170169,
+        "stop" : 1646233170174,
+        "duration" : 5
+      }
+    }, {
       "uid" : "632e30c1d22ddec3",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/632e30c1d22ddec3",
       "status" : "passed",
@@ -847,11 +1018,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "31decf848ab254e4",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/31decf848ab254e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233169873,
+        "stop" : 1646233169903,
+        "duration" : 30
+      }
+    }, {
       "uid" : "889860ac278b4f93",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/889860ac278b4f93",
       "status" : "passed",
@@ -876,11 +1056,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "6f4db5a1a0f0a65c",
+      "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1//#testresult/6f4db5a1a0f0a65c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646233170217,
+        "stop" : 1646233170217,
+        "duration" : 0
+      }
+    }, {
       "uid" : "e1d9537fe903413e",
       "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7//#testresult/e1d9537fe903413e",
       "status" : "passed",

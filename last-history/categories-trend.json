@@ -1,4 +1,9 @@
 [ {
+  "buildOrder" : 1,
+  "reportUrl" : "https://yanux.github.io/allure-junit5-gradle-kts/1/",
+  "reportName" : "Allure Report with history",
+  "data" : { }
+}, {
   "buildOrder" : 7,
   "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/7/",
   "reportName" : "Allure Report with history",
