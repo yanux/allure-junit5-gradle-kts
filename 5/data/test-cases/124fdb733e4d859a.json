@@ -1,0 +1,223 @@
+{
+  "uid" : "124fdb733e4d859a",
+  "name" : "allureSimpleTest displayName",
+  "fullName" : "io.qameta.allure.examples.junit5.AllureSimpleTest.allureSimpleTest",
+  "historyId" : "42e78a12ffdafedde84c3e9a61585391",
+  "time" : {
+    "start" : 1611117810122,
+    "stop" : 1611117810152,
+    "duration" : 30
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Simple step",
+      "time" : {
+        "start" : 1611117810123,
+        "stop" : 1611117810123,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Simple step with status",
+      "time" : {
+        "start" : 1611117810123,
+        "stop" : 1611117810123,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Simple lambda step",
+      "time" : {
+        "start" : 1611117810127,
+        "stop" : 1611117810133,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Simple step inside lambda step",
+        "time" : {
+          "start" : 1611117810133,
+          "stop" : 1611117810133,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Simple test method with step annotation",
+      "time" : {
+        "start" : 1611117810151,
+        "stop" : 1611117810152,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Method parameter: method parameter",
+        "time" : {
+          "start" : 1611117810151,
+          "stop" : 1611117810151,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Simple step inside test method",
+        "time" : {
+          "start" : 1611117810151,
+          "stop" : 1611117810151,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "param",
+        "value" : "method parameter"
+      } ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az54-72"
+  }, {
+    "name" : "thread",
+    "value" : "4112@fv-az54-72.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.junit5.AllureSimpleTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.junit5.AllureSimpleTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureSimpleTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.junit5.AllureSimpleTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "c103456cf603dea3",
+        "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/4//#testresult/c103456cf603dea3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601527607384,
+          "stop" : 1601527607420,
+          "duration" : 36
+        }
+      }, {
+        "uid" : "67c60f07dfd2dc55",
+        "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/3//#testresult/67c60f07dfd2dc55",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598363112686,
+          "stop" : 1598363112719,
+          "duration" : 33
+        }
+      }, {
+        "uid" : "2dfc81e97ac9b0db",
+        "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/2//#testresult/2dfc81e97ac9b0db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598358561605,
+          "stop" : 1598358561630,
+          "duration" : 25
+        }
+      }, {
+        "uid" : "ce81e2a58ce078ea",
+        "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/1//#testresult/ce81e2a58ce078ea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598358164359,
+          "stop" : 1598358164407,
+          "duration" : 48
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "124fdb733e4d859a.json",
+  "parameterValues" : [ ]
+}

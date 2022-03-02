@@ -1,0 +1,122 @@
+{
+  "86f4278ae3656c930bfbf4f995656a70" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9700716816eebf91",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/1//#testresult/9700716816eebf91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358164318,
+        "stop" : 1598358164321,
+        "duration" : 3
+      }
+    } ]
+  },
+  "928ba583d78cf996e6dfaed40645af76" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec36a89ae73cc2e",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/1//#testresult/ec36a89ae73cc2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358164295,
+        "stop" : 1598358164306,
+        "duration" : 11
+      }
+    } ]
+  },
+  "8df3deb6e7618dc18e1fd3f5594d5be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "801577ebc5448be3",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/1//#testresult/801577ebc5448be3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358163876,
+        "stop" : 1598358163923,
+        "duration" : 47
+      }
+    } ]
+  },
+  "42e78a12ffdafedde84c3e9a61585391" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ce81e2a58ce078ea",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/1//#testresult/ce81e2a58ce078ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358164359,
+        "stop" : 1598358164407,
+        "duration" : 48
+      }
+    } ]
+  },
+  "64d3275cf0e37eeb527187beaa41ae30" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f574d4635fd98b4",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/1//#testresult/3f574d4635fd98b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358164200,
+        "stop" : 1598358164225,
+        "duration" : 25
+      }
+    } ]
+  },
+  "a0518510acbdde7729662dce5bf47660" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e73ff7baa2640238",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/1//#testresult/e73ff7baa2640238",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358164240,
+        "stop" : 1598358164243,
+        "duration" : 3
+      }
+    } ]
+  }
+}

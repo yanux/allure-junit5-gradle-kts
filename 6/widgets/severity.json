@@ -1,0 +1,211 @@
+[ {
+  "uid" : "e73c97492d1f0fa0",
+  "name" : "allureParameterizedTest displayName [John]",
+  "time" : {
+    "start" : 1616359459241,
+    "stop" : 1616359459265,
+    "duration" : 24
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a58e17d5031bb1d",
+  "name" : "allureFixtureTest()",
+  "time" : {
+    "start" : 1616359458933,
+    "stop" : 1616359458955,
+    "duration" : 22
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3a37e13f012999b",
+  "name" : "allureFakeParameterizedTest()",
+  "time" : {
+    "start" : 1616359459206,
+    "stop" : 1616359459208,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57a4496e5600d790",
+  "name" : "javadocDescriptionTest()",
+  "time" : {
+    "start" : 1616359459309,
+    "stop" : 1616359459310,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f28b02ff5a8e1165",
+  "name" : "allureParameterizedTest displayName [Mike]",
+  "time" : {
+    "start" : 1616359459270,
+    "stop" : 1616359459271,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53343411051268e0",
+  "name" : "customStaticLabelTest()",
+  "time" : {
+    "start" : 1616359459172,
+    "stop" : 1616359459174,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "581ed2fc85687393",
+  "name" : "staticLinksTest()",
+  "time" : {
+    "start" : 1616359459190,
+    "stop" : 1616359459190,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d613f256c8640e0",
+  "name" : "Test with parameter [dynamic parameter]",
+  "time" : {
+    "start" : 1616359459086,
+    "stop" : 1616359459089,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e992e20327598a2",
+  "name" : "allureSimpleTest displayName",
+  "time" : {
+    "start" : 1616359459150,
+    "stop" : 1616359459154,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ae490cae37a4d47",
+  "name" : "Static name",
+  "time" : {
+    "start" : 1616359459093,
+    "stop" : 1616359459094,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bdd694e1b0645978",
+  "name" : "staticLinkTest()",
+  "time" : {
+    "start" : 1616359459182,
+    "stop" : 1616359459183,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "667809b75397e76b",
+  "name" : "customDynamicLabelTest()",
+  "time" : {
+    "start" : 1616359459164,
+    "stop" : 1616359459165,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fdd4205f1387dcdc",
+  "name" : "commonDynamicLabelTest()",
+  "time" : {
+    "start" : 1616359459160,
+    "stop" : 1616359459161,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bedfacb25441b4e",
+  "name" : "dynamicLinkTest()",
+  "time" : {
+    "start" : 1616359459193,
+    "stop" : 1616359459194,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c02bc9743df3f1c",
+  "name" : "lambdaStepTest()",
+  "time" : {
+    "start" : 1616359459108,
+    "stop" : 1616359459114,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b4a6521c6c5a78",
+  "name" : "annotationDescriptionTest()",
+  "time" : {
+    "start" : 1616359459296,
+    "stop" : 1616359459297,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16ac3ba5b28ed1e6",
+  "name" : "annotatedStepTest()",
+  "time" : {
+    "start" : 1616359459119,
+    "stop" : 1616359459140,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ea9176e0163fa8d",
+  "name" : "annotatedAttachmentTest()",
+  "time" : {
+    "start" : 1616359459286,
+    "stop" : 1616359459292,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56676b01d07ec015",
+  "name" : "commonStaticLabelTest()",
+  "time" : {
+    "start" : 1616359459169,
+    "stop" : 1616359459170,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd892793a58097b3",
+  "name" : "dynamicAttachmentTest()",
+  "time" : {
+    "start" : 1616359459279,
+    "stop" : 1616359459283,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de01078ab89d50ee",
+  "name" : "dynamicDescriptionTest()",
+  "time" : {
+    "start" : 1616359459304,
+    "stop" : 1616359459306,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

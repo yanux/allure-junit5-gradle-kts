@@ -1,0 +1,85 @@
+{
+  "uid" : "a6fdbb841d115663",
+  "name" : "staticLinksTest()",
+  "fullName" : "io.qameta.allure.examples.junit5.AllureLinkTest.staticLinksTest",
+  "historyId" : "ebe7f238b0be7a3e9c2ee74a3d43e178",
+  "time" : {
+    "start" : 1626360956774,
+    "stop" : 1626360956775,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az129-101"
+  }, {
+    "name" : "thread",
+    "value" : "2853@fv-az129-101.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.junit5.AllureLinkTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.junit5.AllureLinkTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "staticLinksTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.junit5.AllureLinkTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "First static link",
+    "url" : "https://qameta.io",
+    "type" : "custom"
+  }, {
+    "name" : "Second static link",
+    "url" : "https://qameta.io",
+    "type" : "custom"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "581ed2fc85687393",
+        "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/6//#testresult/581ed2fc85687393",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616359459190,
+          "stop" : 1616359459190,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a6fdbb841d115663.json",
+  "parameterValues" : [ ]
+}

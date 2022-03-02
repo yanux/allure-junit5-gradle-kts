@@ -1,0 +1,338 @@
+{
+  "86f4278ae3656c930bfbf4f995656a70" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "149d0301aa79923c",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/5//#testresult/149d0301aa79923c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611117810013,
+        "stop" : 1611117810014,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b8d5907f649a4c86",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/4//#testresult/b8d5907f649a4c86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601527607252,
+        "stop" : 1601527607255,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "16b2065cda10e521",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/3//#testresult/16b2065cda10e521",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598363112658,
+        "stop" : 1598363112662,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "869f0cb272c29ec4",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/2//#testresult/869f0cb272c29ec4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358561581,
+        "stop" : 1598358561589,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "9700716816eebf91",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/1//#testresult/9700716816eebf91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358164318,
+        "stop" : 1598358164321,
+        "duration" : 3
+      }
+    } ]
+  },
+  "928ba583d78cf996e6dfaed40645af76" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "c394e3743d11d3b2",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/5//#testresult/c394e3743d11d3b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611117809878,
+        "stop" : 1611117809910,
+        "duration" : 32
+      }
+    }, {
+      "uid" : "7593045f42be4384",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/4//#testresult/7593045f42be4384",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601527607074,
+        "stop" : 1601527607108,
+        "duration" : 34
+      }
+    }, {
+      "uid" : "eaeddfe8b3310455",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/3//#testresult/eaeddfe8b3310455",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598363112637,
+        "stop" : 1598363112644,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "9681915ac9854195",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/2//#testresult/9681915ac9854195",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358561562,
+        "stop" : 1598358561576,
+        "duration" : 14
+      }
+    }, {
+      "uid" : "ec36a89ae73cc2e",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/1//#testresult/ec36a89ae73cc2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358164295,
+        "stop" : 1598358164306,
+        "duration" : 11
+      }
+    } ]
+  },
+  "8df3deb6e7618dc18e1fd3f5594d5be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "ce3e11a685a86b0c",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/5//#testresult/ce3e11a685a86b0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611117810029,
+        "stop" : 1611117810031,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "83a1cc263ec56c60",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/4//#testresult/83a1cc263ec56c60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601527607276,
+        "stop" : 1601527607281,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "bdb16172ae086d66",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/3//#testresult/bdb16172ae086d66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598363112280,
+        "stop" : 1598363112321,
+        "duration" : 41
+      }
+    }, {
+      "uid" : "b7274882bd9a8757",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/2//#testresult/b7274882bd9a8757",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358561191,
+        "stop" : 1598358561236,
+        "duration" : 45
+      }
+    }, {
+      "uid" : "801577ebc5448be3",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/1//#testresult/801577ebc5448be3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358163876,
+        "stop" : 1598358163923,
+        "duration" : 47
+      }
+    } ]
+  },
+  "42e78a12ffdafedde84c3e9a61585391" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "124fdb733e4d859a",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/5//#testresult/124fdb733e4d859a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611117810122,
+        "stop" : 1611117810152,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "c103456cf603dea3",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/4//#testresult/c103456cf603dea3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601527607384,
+        "stop" : 1601527607420,
+        "duration" : 36
+      }
+    }, {
+      "uid" : "67c60f07dfd2dc55",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/3//#testresult/67c60f07dfd2dc55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598363112686,
+        "stop" : 1598363112719,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "2dfc81e97ac9b0db",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/2//#testresult/2dfc81e97ac9b0db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358561605,
+        "stop" : 1598358561630,
+        "duration" : 25
+      }
+    }, {
+      "uid" : "ce81e2a58ce078ea",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/1//#testresult/ce81e2a58ce078ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358164359,
+        "stop" : 1598358164407,
+        "duration" : 48
+      }
+    } ]
+  },
+  "64d3275cf0e37eeb527187beaa41ae30" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "9a9b7801ffb9af95",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/5//#testresult/9a9b7801ffb9af95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611117810065,
+        "stop" : 1611117810093,
+        "duration" : 28
+      }
+    }, {
+      "uid" : "235bb7b92fa1d87a",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/4//#testresult/235bb7b92fa1d87a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601527607316,
+        "stop" : 1601527607348,
+        "duration" : 32
+      }
+    }, {
+      "uid" : "27939842407e6740",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/3//#testresult/27939842407e6740",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598363112560,
+        "stop" : 1598363112586,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "d665fa6facc2f61c",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/2//#testresult/d665fa6facc2f61c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358561471,
+        "stop" : 1598358561507,
+        "duration" : 36
+      }
+    }, {
+      "uid" : "3f574d4635fd98b4",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/1//#testresult/3f574d4635fd98b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358164200,
+        "stop" : 1598358164225,
+        "duration" : 25
+      }
+    } ]
+  },
+  "a0518510acbdde7729662dce5bf47660" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "de285c0808c0cf57",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/5//#testresult/de285c0808c0cf57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611117810106,
+        "stop" : 1611117810107,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "403f736113d7a4fa",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/4//#testresult/403f736113d7a4fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601527607362,
+        "stop" : 1601527607363,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "68246313e91434f0",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/3//#testresult/68246313e91434f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598363112601,
+        "stop" : 1598363112604,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "aa93fa982720d30f",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/2//#testresult/aa93fa982720d30f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358561513,
+        "stop" : 1598358561519,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "e73ff7baa2640238",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit5-gradle-kts/1//#testresult/e73ff7baa2640238",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598358164240,
+        "stop" : 1598358164243,
+        "duration" : 3
+      }
+    } ]
+  }
+}
